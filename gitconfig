@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = !
-	name = Denis Kojo dennismarfo@gmail.com
+	email = dennismarfo@gmail.com
+	name = Denis Kojo
